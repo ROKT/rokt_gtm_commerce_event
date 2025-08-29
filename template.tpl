@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "mParticle - Event - Commerce Template",
+  "displayName": "mParticle by Rokt - Event - Commerce Template",
   "catagories": [
     "MARKETING", 
     "ANALYTICS", 
